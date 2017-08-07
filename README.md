@@ -1,2 +1,2 @@
-# joldyzzz..github.io
+# joldyzzz.github.io
 Тестовый хостинг
